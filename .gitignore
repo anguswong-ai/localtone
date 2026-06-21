@@ -1,0 +1,16 @@
+# Swift / SwiftPM build output (includes the generated LocalTone.app bundle)
+.build/
+.swiftpm/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Xcode user state
+*.xcuserstate
+
+# Editor / tooling local config
+.claude/
+
+# Local scratch and debugging artifacts
+Screenshot*.png
