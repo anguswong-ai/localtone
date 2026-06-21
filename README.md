@@ -2,6 +2,9 @@
 
 LocalTone is a local-only macOS ringtone maker. Drop in an audio or video file, choose a start point and duration, optionally add fades, and export an `.m4r` AAC ringtone that is capped at 30 seconds.
 
+<img width="1012" height="664" alt="Screenshot 2026-06-21 at 23 29 52" src="https://github.com/user-attachments/assets/28ff862d-bbe0-4f2f-b78d-a089d92e8911" />
+
+
 ## Features
 
 - SwiftUI macOS interface
